@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[<img src="https://erikmaier.me/assets/images/ErikMaierCVDesignBannerImage.jpg">](https://youtube.com/c/javascriptmastery)
+[<img src="https://i.ibb.co/2Zsf8Mx/Screenshot.png">](https://youtube.com/c/javascriptmastery)
 
 <!--
 **ErikMaier/ErikMaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
